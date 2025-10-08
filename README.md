@@ -36,18 +36,28 @@ Tools/LLMs for Video Generation:
 ○	Website: MidJourney
 
 # Instructions:
-### 1.	Examine the Given Video: Study the Video to understand its key features—objects, colors, lighting, composition, and any stylistic choices.
-### 2.	Write the Basic Prompt: Start with a simple description of the primary elements in the Video (e.g., "A sunset over a mountain range").
-### 3.	Refine and Add Details: Improve the prompt by incorporating specifics like colors, shapes, textures, and style (e.g., "A sunset over purple mountains, with a golden sky and a calm river flowing through the valley").
-### 4.	Use the Selected Tool: Choose an Video generation model (e.g., DALL·E, Stable Diffusion, or MidJourney) and input the refined prompt.
-### 5.	Iterate and Adjust: If the initial result isn't quite right, adjust the prompt further based on the differences observed between the generated and original Video.
-### 6.	Save and Document: Save the generated Video and document your prompt alongside any observations on how the output compares to the original.
+### 1.	Examine the Given Video: 
+Study the Video to understand its key features—objects, colors, lighting, composition, and any stylistic choices.
+### 2.	Write the Basic Prompt: 
+Start with a simple description of the primary elements in the Video (e.g., "A sunset over a mountain range").
+### 3.	Refine and Add Details: 
+Improve the prompt by incorporating specifics like colors, shapes, textures, and style (e.g., "A sunset over purple mountains, with a golden sky and a calm river flowing through the valley").
+### 4.	Use the Selected Tool: 
+Choose an Video generation model (e.g., DALL·E, Stable Diffusion, or MidJourney) and input the refined prompt.
+### 5.	Iterate and Adjust: 
+If the initial result isn't quite right, adjust the prompt further based on the differences observed between the generated and original Video.
+### 6.	Save and Document: 
+Save the generated Video and document your prompt alongside any observations on how the output compares to the original.
 
 # Deliverables:
-### 1.	The Original Video: Provided Video for reference.
-### 2.	The Final Generated Video: The Video created using your refined prompt.
-### 3.	Prompts Used: The text prompts created during the experiment.
-### 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
+### 1.	The Original Video: 
+Provided Video for reference.
+### 2.	The Final Generated Video: 
+The Video created using your refined prompt.
+### 3.	Prompts Used: 
+The text prompts created during the experiment.
+### 4.	Comparison Report: 
+A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
